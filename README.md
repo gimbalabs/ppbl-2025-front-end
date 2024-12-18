@@ -1,3 +1,7 @@
+# Initialized at Live Coding 2024-12-18
+Next step: pick up here: https://github.com/MeshJS/examples/tree/main/next-app-route/app/_components
+
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
